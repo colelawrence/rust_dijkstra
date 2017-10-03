@@ -1,0 +1,6 @@
+[package]
+name = "rust_dijkstra"
+version = "0.1.0"
+authors = ["Cole R Lawrence <msgzht@gmail.com>"]
+
+[dependencies]
