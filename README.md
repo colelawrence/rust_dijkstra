@@ -1,6 +1,6 @@
 # Dijkstra
 
-This is a continuation of the code I have been writing for [rust_learning_notes hashmap practice](https://github.com/colelawrence/rust_learning_notes/tree/master/hm/).
+The implementation is based on the description of Dijkstra's Algorithm as found in [the wonderful book, _Algorithms Unplugged_](http://www.springer.com/us/book/9783642153273) published by Springer.
 
 At the moment, we still need to sort the found paths before searching and returning, because at this time, it is not taking weight into account.
 
